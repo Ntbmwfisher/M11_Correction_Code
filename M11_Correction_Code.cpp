@@ -41,6 +41,7 @@ int main() { //===2nd Error: 'main(()' should be 'main()'===
         << findMax(charFirst, charSecond) << "'" << std::endl;
 
     // And with that, our little demo is complete.
+
 	return 0; //===3rd Error: 'O' should be '0'===
 }
 
